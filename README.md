@@ -14,6 +14,7 @@ Tools Used:
 Programming Language: Python
 Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
 Development Environment: Jupyter Notebook
+
 Outcome:
 
 Trained machine learning model for disease prediction with key metrics and visualizations.
